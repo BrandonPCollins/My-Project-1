@@ -48,3 +48,7 @@ h1, h2 {
 #menu a:hover {
     border-bottom: 2px solid black;
 }
+
+.active {
+    border-bottom: 2px solid black;
+}
