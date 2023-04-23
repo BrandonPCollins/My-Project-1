@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    box-sizing: border-box;
 }
 
 body {
@@ -108,7 +109,7 @@ h1, h2 {
 }
 
 #classes {
-    height: 600px;
+    height: 800px;
 }
 
 #left-about {
@@ -137,7 +138,7 @@ hr {
 .center-about-heading {
     width: 60%;
     line-height: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 150px;
     margin: 0 auto;
 }
 
@@ -246,3 +247,30 @@ hr {
     height: 250px;
     border-radius: 50%;
 }
+
+#instructors {
+    height: 300px;
+}
+
+#instructors-text {
+    text-align: center;
+    margin-top: 5px;
+    font-size: 250%;
+}
+
+.column {
+    float: left;
+    height: 100%;
+    width: 33.33%;
+    padding: 0;
+    text-align: center;
+    border: 2px solid white;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+  
