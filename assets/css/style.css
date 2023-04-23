@@ -51,10 +51,6 @@ h1, h2 {
     border-bottom: 2px solid black;
 }
 
-.active {
-    border-bottom: 2px solid black;
-}
-
 /* hero image */
 
 #hero-outer {
