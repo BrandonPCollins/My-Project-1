@@ -325,9 +325,31 @@ hr {
     margin-top: 0.5em;
 }
 
+.footer {
+    background-color: #3a3a3a;
+}
+
+.footer h2 {
+    color: white;
+    text-transform: uppercase;
+}
+
+
+#map-header {
+    float: right;
+}
+
+.map {
+    height: 100%;
+    width: 80%;
+}
+
 
 .social-networks {
     text-align: center;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
 }
 
 .social-networks > li {
@@ -338,5 +360,16 @@ hr {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #3a3a3a;
+    color: white;
+}
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 2;
+    column-gap: 0;
+}
+
+#photos > img {
+    width: 100%;
 }
