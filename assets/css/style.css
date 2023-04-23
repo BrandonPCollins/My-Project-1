@@ -51,6 +51,11 @@ h1, h2 {
     border-bottom: 2px solid black;
 }
 
+.active{
+    border-bottom: 1px solid #3a3a3a;
+}
+
+
 /* hero image */
 
 #hero-outer {
@@ -455,4 +460,12 @@ hr {
 
 .calendar {
     clear: both;
+}
+
+.form-section {
+    clear: left;
+    background: url("../images/cage-fight.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
 }
