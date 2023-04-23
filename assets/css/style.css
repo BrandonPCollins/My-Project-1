@@ -134,6 +134,13 @@ hr {
     margin: 5px;
 }
 
+.center-about-heading {
+    width: 60%;
+    line-height: 20px;
+    margin-bottom: 50px;
+    margin: 0 auto;
+}
+
 .left-about-heading {
     width: 60%;
     float: right;
@@ -183,6 +190,7 @@ hr {
     border-radius: 50%;
     margin: 0 auto;
     margin-top: 150px;
+    margin-bottom: 50px;
 }
 
 #circle-cover-bg {
@@ -200,7 +208,7 @@ hr {
     height: 250px;
     border-style: solid;
     border-color: black;
-    border-width: 1px;
+    border-width: 1.5px;
     border-radius: 50%;
     float: right;
     margin-bottom: 5px;
@@ -212,6 +220,28 @@ hr {
 }
 
 .left-circle-cover-bg img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.right-circle-container {
+    width: 250px;
+    height: 250px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1.5px;
+    border-radius: 50%;
+    float: left;
+    margin-bottom: 5px;
+}
+
+.right-circle-cover-bg {
+    height: 100%;
+    border-radius: 50%;
+}
+
+.right-circle-cover-bg img {
     width: 250px;
     height: 250px;
     border-radius: 50%;
