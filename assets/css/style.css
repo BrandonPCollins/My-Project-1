@@ -451,3 +451,8 @@ hr {
         column-count: 2;
     }
 }
+
+
+.calendar {
+    clear: both;
+}
