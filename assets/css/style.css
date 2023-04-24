@@ -377,6 +377,21 @@ hr {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+.footer p {
+    color: white;
+    text-transform: uppercase;
+    font-size: 150%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.contact-info {
+    float: left ;
+}
+
+.email-info {
+    float: right;
+    padding: 10px;
+}
 
 .social-networks {
     text-align: center;
