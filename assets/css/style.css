@@ -465,10 +465,17 @@ hr {
     background-position: center;
     color: white;
     text-shadow: 2px 2px 5px black;
+    text-indent: 50%;
 }
 
-#calendar-title {
-    margin-left: 600px;
+
+#map {
+    margin-left: 150px;
+}
+
+#map h2 {
+    margin-left: 150px;
+    text-indent: 0;
 }
 
 .form-section {
