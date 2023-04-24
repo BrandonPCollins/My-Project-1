@@ -9,7 +9,20 @@
 
 # Features
 
+Along the top of the index page and the other 3 pages in the naviation bar. It displays the name of club WATERFORD WARLORDS in the top left hand corner, and snapped to the top right of the bage are navigation linkes to each additional webage, Home, Timetable, Gallery, and Sign Up!. As you can see the Home link is underlined as the active page, clearly conveying to the user which section of the site they are currently on. The colors of blue on white were chosen for their clairty and readibility, while also being pertinent to the club's location in Waterford City as these are the county colours. 
+
+![image](https://user-images.githubusercontent.com/131177569/234122597-4f8e3ca8-7f61-4aff-89de-d4e83b237c4e.png)
 
 
+# Header 
+
+The header begins with a slow zoom of a picture of two men in an amateur kickboxing bout, immediately conveying the purpose of the club, while the zoom creates a dynamism and draws the user in upon opening the webpage. This is accompanied by a blue block containing the gym's name once again, along with the location. This repetition burrows down on the branding of the club, along with the blue colour scheme which once again draws immediate attention to the name and location, while maintaining the connotations created with local sports teams by utilising the colours of white and blue. 
+
+![image](https://user-images.githubusercontent.com/131177569/234127066-ab7d4f00-27ac-468e-bee0-e85d9e0d7360.png)
+
+
+# Validation Testing
+
+Accesibility was testing through Lighthouse in devtools and the Waterford Warlords website scored high in all areas.
 
 ![Screenshot 2023-04-24 205906](https://user-images.githubusercontent.com/131177569/234105930-502fa0e1-fa17-44d7-9545-90fe77d06ace.png)
