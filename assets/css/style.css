@@ -99,14 +99,29 @@ h1, h2 {
     width: 300px;
     height: 200px;
 
-    padding-top: 20px;
     padding-left: 10px;
 
-    background-color: rgba(0, 0, 255, .4);
+    background-color: rgba(0, 0, 255, 0.4);
 
     bottom: 30px;
     right: 150px;
     position: absolute;
+}
+
+#index-body {
+    background: url("../images/cage-bg.jpeg") center center repeat ;
+    text-shadow: 2px 1px 5px black;
+    color: white;
+}
+
+#index-body h2 {
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+}
+
+#index-body p {
+    background-color:  rgba(0, 0, 0, 0.7);
+    text-align: center;
 }
 
 #classes {
@@ -129,6 +144,7 @@ h1, h2 {
     width: 33%;
     margin: 0 auto;
 }
+
 
 hr {
     border-top: 1px solid #3a3a3a;
@@ -335,6 +351,7 @@ hr {
 
 .footer {
     background-color: #3a3a3a;
+    height: 100%;
 }
 
 .footer h2 {
