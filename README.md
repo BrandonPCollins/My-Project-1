@@ -57,10 +57,23 @@ At the bottom of every page the footer provides essential contact information fo
 ![image](https://user-images.githubusercontent.com/131177569/234130438-5472ae09-716c-4c31-9d61-79239cb2948d.png)
 
 
+# Testing
 
+The site was tested in Chrome, Firefox and Microsoft Edge to confirm its usage over multiple browsers. In all of these browsers I extensively tested various aspect ratios to ensure that the page is responsive to various screen sizes and can dynamically resize itself to fit any device upon which it might be viewed. 
 
-# Validation Testing
+Using Codeinstitutes form return https://formdump.codeinstitute.net/ , I confirmed that the form sign-ins saves all pertinent data and that the required fields prevent submission without their inclusion.
+
+![image](https://user-images.githubusercontent.com/131177569/234134238-9b70e9ed-78ef-4ec5-a7d8-a21d5b16e1d5.png)
+
 
 Accesibility was testing through Lighthouse in devtools and the Waterford Warlords website scored high in all areas.
 
 ![Screenshot 2023-04-24 205906](https://user-images.githubusercontent.com/131177569/234105930-502fa0e1-fa17-44d7-9545-90fe77d06ace.png)
+
+Both the HTML and CSS were ran throughteh official W3C and Jigsaw validators respectively. The CSS returned no errors, but the HTML contained several issues which mostly attributable to oversights and earlier versions. These were thusly corrected.
+
+![image](https://user-images.githubusercontent.com/131177569/234133135-a0ec6e6b-3af6-42a5-8e2a-71284d2bce59.png)
+
+
+![image](https://user-images.githubusercontent.com/131177569/234132923-bfd33756-60c0-4245-a402-5b4c92e14161.png)
+
