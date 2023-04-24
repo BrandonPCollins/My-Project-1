@@ -76,7 +76,17 @@ Both the HTML and CSS were ran throughteh official W3C and Jigsaw validators res
 
 ![image](https://user-images.githubusercontent.com/131177569/234134838-c7ecb4c8-b00f-478f-bbee-891d92f40df7.png)
 
-
-
 ![image](https://user-images.githubusercontent.com/131177569/234132923-bfd33756-60c0-4245-a402-5b4c92e14161.png)
+
+# Deployment
+
+The site is live and can be found : [Here](https://brandonpcollins.github.io/My-Project-1/ ) 
+
+# Credits
+
+The basis for the site was the Code Institute Love Running Project which was massively helpful as a jumping off point for my own website.
+
+All the images are taken from [Pexels.com](https://www.pexels.com/)
+
+Extensive use of https://www.w3schools.com/ was used in supporting and expanding my coding knowledge. 
 
