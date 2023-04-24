@@ -439,6 +439,12 @@ hr {
         font-size: 65%;
     }
 
+    .calendar {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
     hr {
         display: none;
     }
@@ -467,6 +473,12 @@ hr {
     }
 
     #classes {
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .calendar {
         width: 90%;
         height: 1200px;
         margin: 0 auto;
@@ -502,7 +514,6 @@ hr {
     color: white;
     text-shadow: 2px 2px 5px black;
     text-indent: 50%;
-    height: 1200px;
     width: 100%;
 }
 
