@@ -32,6 +32,25 @@ Once they have reached the bottom of the page they are then directed to a hyperl
 
 ![image](https://user-images.githubusercontent.com/131177569/234128942-a160d60e-1894-4b91-a045-52a1def9192f.png)
 
+# Sign Up Form
+
+The sign up page is used to get as much information from the client as possible allowing the gym to tailor experiences and packages to best suit them, whether that be weekly, monthly, or yearly memberships. Further I used it to display my capability in employing various kinds of buttons and inputs.
+
+![image](https://user-images.githubusercontent.com/131177569/234129303-894f0295-2649-4fc6-92b7-a10b8beb824f.png)
+
+# Timetable 
+
+The timetable page gives details on all the classes a prospective clien can engage with, displaying the information cleanly and easily in the form of a google calendar which I created specifically for this project. It also provides a place for current memebrs to view upcoming classes. Additionally I included a google map to make the location of the gym clear for new clients.
+
+![image](https://user-images.githubusercontent.com/131177569/234129698-6bfa9473-0680-4efd-879b-7f63776b5f60.png)
+
+# Gallery
+
+The mosiac gallery is another technique we're using to try and encourage new sign-ups by showcasing a variety of dynamic and exciting images of training within the gym, showcasing the clean and cutting edge facilities from which the club operates. 
+
+![image](https://user-images.githubusercontent.com/131177569/234130070-076578d6-a78c-47c2-ad13-a6a1b7bd186a.png)
+
+
 
 
 # Validation Testing
