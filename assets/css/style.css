@@ -343,15 +343,27 @@ hr {
 
 #call2action {
     padding-top: 20%;
+    padding-bottom: 5%;
     font-size: 200%;
+    background-color:  rgba(0, 0, 0, 0.7);
     text-transform: uppercase;
+    letter-spacing: 4px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bolder;
 }
 
+#call2actioncontact {
+    color: white;
+
+}
+
+#call2actioncontact:hover {
+    color: red;
+}
+
 .footer {
     background-color: #3a3a3a;
-    height: 100%;
+    height: 150px;
 }
 
 .footer h2 {
