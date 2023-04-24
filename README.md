@@ -70,9 +70,12 @@ Accesibility was testing through Lighthouse in devtools and the Waterford Warlor
 
 ![Screenshot 2023-04-24 205906](https://user-images.githubusercontent.com/131177569/234105930-502fa0e1-fa17-44d7-9545-90fe77d06ace.png)
 
-Both the HTML and CSS were ran throughteh official W3C and Jigsaw validators respectively. The CSS returned no errors, but the HTML contained several issues which mostly attributable to oversights and earlier versions. These were thusly corrected.
+Both the HTML and CSS were ran throughteh official W3C and Jigsaw validators respectively. The CSS returned no errors, but the HTML contained several issues which mostly attributable to oversights and earlier versions. These were thusly corrected, except for a warning of a section lacking a header of which I am aware of and is being done intentionally.
 
 ![image](https://user-images.githubusercontent.com/131177569/234133135-a0ec6e6b-3af6-42a5-8e2a-71284d2bce59.png)
+
+![image](https://user-images.githubusercontent.com/131177569/234134838-c7ecb4c8-b00f-478f-bbee-891d92f40df7.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/131177569/234132923-bfd33756-60c0-4245-a402-5b4c92e14161.png)
