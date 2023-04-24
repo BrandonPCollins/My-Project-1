@@ -466,6 +466,10 @@ hr {
     text-indent: 50%;
 }
 
+#calendar-div {
+    background-color: rgba(0, 0, 0, .6);
+
+}
 
 #map {
     margin-left: 150px;
