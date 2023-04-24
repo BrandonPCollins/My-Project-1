@@ -460,6 +460,15 @@ hr {
 
 .calendar {
     clear: both;
+    background: url("../images/timetable-bg.jpeg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
+
+#calendar-title {
+    margin-left: 600px;
 }
 
 .form-section {
