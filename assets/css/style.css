@@ -126,6 +126,7 @@ h1, h2 {
 
 #classes {
     height: 800px;
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
 #left-about {
@@ -345,7 +346,7 @@ hr {
     padding-top: 20%;
     padding-bottom: 5%;
     font-size: 200%;
-    background-color:  rgba(0, 0, 0, 0.7);
+    background-color:  rgba(0, 0, 0, 0.4);
     text-transform: uppercase;
     letter-spacing: 4px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
