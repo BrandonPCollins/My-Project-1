@@ -50,6 +50,12 @@ The mosiac gallery is another technique we're using to try and encourage new sig
 
 ![image](https://user-images.githubusercontent.com/131177569/234130070-076578d6-a78c-47c2-ad13-a6a1b7bd186a.png)
 
+# Footer 
+
+At the bottom of every page the footer provides essential contact information for the gym so that it is easily and immeidately available no matter which page the user is currently on. Included is the gym's phone number and email adress for direct contact, and also the club's various social media accounts on Youtube, Twitter, Instagram, and Facebook using icons taken from fontawesome.com. 
+
+![image](https://user-images.githubusercontent.com/131177569/234130438-5472ae09-716c-4c31-9d61-79239cb2948d.png)
+
 
 
 
