@@ -502,11 +502,14 @@ hr {
     color: white;
     text-shadow: 2px 2px 5px black;
     text-indent: 50%;
+    height: 1200px;
+    width: 100%;
 }
 
 #calendar-div {
     background-color: rgba(0, 0, 0, .6);
     padding: 5% 0 5% 0;
+    height: 100%;
 }
 
 #map {
