@@ -20,6 +20,19 @@ The header begins with a slow zoom of a picture of two men in an amateur kickbox
 
 ![image](https://user-images.githubusercontent.com/131177569/234127066-ab7d4f00-27ac-468e-bee0-e85d9e0d7360.png)
 
+# Index Page
+
+![image](https://user-images.githubusercontent.com/131177569/234128584-28711181-7889-410e-9f69-2e95abf20f8f.png)
+
+Immediately beneath the header I engage in content hinting as discussed in the Structure Plane User Experience Module to entice the user to engage with the website. On opening the site they can instantly view the beginning of the classes offered section. Once they scroll down I re-engage this technique to showcase the Instructors available to them if they join the gym.
+
+![image](https://user-images.githubusercontent.com/131177569/234128865-05ef11f9-d43b-4592-8276-cd3815ee4e15.png)
+
+Once they have reached the bottom of the page they are then directed to a hyperlink which will bring them straight to the sign-up page. With this design the index page is specifically structured the funnel the user towards singing up for the gym, and thus generating interest and revenue in the club which is its main goal.
+
+![image](https://user-images.githubusercontent.com/131177569/234128942-a160d60e-1894-4b91-a045-52a1def9192f.png)
+
+
 
 # Validation Testing
 
