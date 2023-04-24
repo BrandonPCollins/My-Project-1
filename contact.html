@@ -25,13 +25,13 @@
                     <a href="contact.html" class="active">Contact Info</a>
                 </li>
                 <li>
-                    <a href="gallery.html" >Gallery</a>
+                    <a href="gallery.html">Gallery</a>
                 </li>
                 <li>
-                    <a href="timetable.html" >Timetable</a>
+                    <a href="timetable.html">Timetable</a>
                 </li>
                 <li>
-                    <a href="index.html" >Home</a>
+                    <a href="index.html">Home</a>
                 </li>
             </ul>
         </nav>
@@ -39,53 +39,86 @@
 
     <section class="form-section">
         <section class="form-section">
-            <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
-                <h2>Sign Up Here!</h2>
-                <label for="fname">First Name</label>
-                <input id="fname" name="first_name" type="text" required>
-                
-                <label for="lname">Last Name</label>
-                <input id="lname" name="last_name" type="text" required>
-                
-                <label for="email">Email Address</label>
-                <input type="email" id="email" name="email_address" required>
-                
-                <h2>Previous Experience:</h2>
-                <label for="kickboxing">Kickboxing</label>
-                <input type="checkbox" id="kickboxing" name="previous_experience" value="kickboxing" required>
-                <label for="boxing">Boxing</label>
-                <input type="checkbox" id="boxing" name="previous_experience" value="boxing" required>
-                <label for="wrestling">Wrestling</label>
-                <input type="checkbox" id="wrestling" name="previous_experience" value="wrestling" required>
-                <label for="bjj">Jiu-Jitsu</label>
-                <input type="checkbox" id="bjj" name="previous_experience" value="bjj" required>
+            <div id="form-div">
+                <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
+                    <h2>Sign Up Here!</h2>
+                    <label for="fname">First Name</label>
+                    <input id="fname" name="first_name" type="text" required>
 
-                <hr>
-                <input class="join-button" type="submit" value="SUBMIT">
-            </form>
+                    <label for="lname">Last Name</label>
+                    <input id="lname" name="last_name" type="text" required>
+                    <br><br>
+
+                    <label for="date">Date of Birth</label>
+                    <input id="date" name="date-of-birth" type="date" required>
+                    <br><br>
+
+                    <div>
+                        <h1>Sex</h1>
+                        <label for="male">Male</label>
+                        <input id="male" name="sex" id="male" value="male" type="radio" required>
+
+                        <label for="female">Female</label>
+                        <input id="female" name="sex" id="female" value="female" type="radio" required>
+                    </div>
+                    <br><br>
+
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" name="email_address" required>
+                    <br><br>
+
+                    <h2>Previous Experience:</h2>
+                    <label for="kickboxing">Kickboxing</label>
+                    <input type="checkbox" id="kickboxing" name="previous_experience" value="kickboxing">
+                    <label for="boxing">Boxing</label>
+                    <input type="checkbox" id="boxing" name="previous_experience" value="boxing">
+                    <label for="wrestling">Wrestling</label>
+                    <input type="checkbox" id="wrestling" name="previous_experience" value="wrestling">
+                    <label for="bjj">Jiu-Jitsu</label>
+                    <input type="checkbox" id="bjj" name="previous_experience" value="bjj">
+                    <label for="none">Beginner</label>
+                    <input type="checkbox" id="none" name="previous_experience" value="none">
+
+                    <br><br>
+                    <label for="personal-para">
+                        <h2>Personal Statement </h2>
+                    </label>
+                    <br>
+                    <textarea name="personal-para" id="personal-para" cols="60" rows="15"
+                        placeholder="Let us know why you want to join our team, and elaborate on any prior experience!"></textarea>
+                    <br><br>
+                    <input type="submit" value="SUBMIT" class="submit">
+                </form>
+
+            </div>
         </section>
-    
 
-    <footer class="footer">
-        <h2>Socials</h2>
-        <ul class="social-networks">
-            <li>
-                <a href="https://facebook.com" target="_blank" aria-label="Visit our Facebook page. This will open in a new tab."><i class="fa-brands fa-facebook"></i></a>
-            </li>
-            <li>
-                <a href="https://www.instagram.com/" target="_blank" aria-label="Visit our Instagram page. This will open in a new tab."><i class="fa-brands fa-instagram"></i></a>
-            </li>
-            <li>
-                <a href="https://twitter.com/home" target="_blank" aria-label="Visit our Twitter page. This will open in a new tab."><i class="fa-brands fa-twitter"></i></a>
-            </li>
-            <li>
-                <a href="https://www.youtube.com/" target="_blank" aria-label="Visit our Youtube page. This will open in a new tab."><i class="fa-brands fa-youtube"></i></a>
-            </li>
 
-        </ul>
-        <hr>
-    </footer>
-
+        <footer class="footer">
+            <h2>Socials</h2>
+            <ul class="social-networks">
+                <li>
+                    <a href="https://facebook.com" target="_blank"
+                        aria-label="Visit our Facebook page. This will open in a new tab."><i
+                            class="fa-brands fa-facebook"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/" target="_blank"
+                        aria-label="Visit our Instagram page. This will open in a new tab."><i
+                            class="fa-brands fa-instagram"></i></a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/home" target="_blank"
+                        aria-label="Visit our Twitter page. This will open in a new tab."><i
+                            class="fa-brands fa-twitter"></i></a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/" target="_blank"
+                        aria-label="Visit our Youtube page. This will open in a new tab."><i
+                            class="fa-brands fa-youtube"></i></a>
+                </li>
+            </ul>
+        </footer>
 </body>
 
 </html>
