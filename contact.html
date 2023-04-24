@@ -38,8 +38,33 @@
     </header>
 
     <section class="form-section">
-        
-    </section>
+        <section class="form-section">
+            <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
+                <h2>Sign Up Here!</h2>
+                <label for="fname">First Name</label>
+                <input id="fname" name="first_name" type="text" required>
+                
+                <label for="lname">Last Name</label>
+                <input id="lname" name="last_name" type="text" required>
+                
+                <label for="email">Email Address</label>
+                <input type="email" id="email" name="email_address" required>
+                
+                <h2>Previous Experience:</h2>
+                <label for="kickboxing">Kickboxing</label>
+                <input type="checkbox" id="kickboxing" name="previous_experience" value="kickboxing" required>
+                <label for="boxing">Boxing</label>
+                <input type="checkbox" id="boxing" name="previous_experience" value="boxing" required>
+                <label for="wrestling">Wrestling</label>
+                <input type="checkbox" id="wrestling" name="previous_experience" value="wrestling" required>
+                <label for="bjj">Jiu-Jitsu</label>
+                <input type="checkbox" id="bjj" name="previous_experience" value="bjj" required>
+
+                <hr>
+                <input class="join-button" type="submit" value="SUBMIT">
+            </form>
+        </section>
+    
 
     <footer class="footer">
         <h2>Socials</h2>
