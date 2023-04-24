@@ -56,6 +56,11 @@ At the bottom of every page the footer provides essential contact information fo
 
 ![image](https://user-images.githubusercontent.com/131177569/234130438-5472ae09-716c-4c31-9d61-79239cb2948d.png)
 
+# Future Development and Challenges
+
+The ability to book classes in advance is something I toyed with during development but was unable to do so in a satisfactory way with my current skillset. It would absolutely be something I would like to implement in a future iteration of this website.
+
+The cage link fence background, while thematic, was also a back-up as initially I attempted to create a parallax scroll image, though I was already so far into development that trying to put it on top of what I had already created proved too much for me. If I were to do this project again I would likely start with the background rather than the content, giving me a tabula rasa upon which to work, without the glut my own code muddying up the clarity of what I was attempting to accomplishment. 
 
 # Testing
 
@@ -78,9 +83,11 @@ Both the HTML and CSS were ran throughteh official W3C and Jigsaw validators res
 
 ![image](https://user-images.githubusercontent.com/131177569/234132923-bfd33756-60c0-4245-a402-5b4c92e14161.png)
 
+As of now there are no bugs that I am aware of, having managed to squash most of them in my testing phase. In particular the responsive design was particularly difficult and required severals layers of testing as the index page was particularly complex given the various styles I used on the respective sections. 
+
 # Deployment
 
-The site is live and can be found : [Here](https://brandonpcollins.github.io/My-Project-1/ ) 
+The site is live and deployed through GitHub pages and can be found : [Here](https://brandonpcollins.github.io/My-Project-1/ ) 
 
 # Credits
 
@@ -89,4 +96,6 @@ The basis for the site was the Code Institute Love Running Project which was mas
 All the images are taken from [Pexels.com](https://www.pexels.com/)
 
 Extensive use of https://www.w3schools.com/ was used in supporting and expanding my coding knowledge. 
+
+Icons in the Footer were taken from fontawesome.com 
 
