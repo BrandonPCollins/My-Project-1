@@ -267,6 +267,7 @@ hr {
     border-radius: 50%;
 }
 
+/* CSS to make the text overlay hover when mousing over the instructors */
 #instructors {
     clear: both;
     margin: 0 auto;
@@ -426,6 +427,8 @@ hr {
     float: left;
 }
 
+
+/* CSS for screen responsisive sizing */
 @media screen and (max-width:1200px) {
     #classes {
         width: 65%;
