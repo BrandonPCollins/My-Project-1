@@ -87,6 +87,12 @@ As of now there are no bugs that I am aware of, having managed to squash most of
 
 # Deployment
 
+The site was deployed to GitHub pages using the following steps:
+1) In the GitHub repository for the project I navigated to the Settings Tab.
+2) Under the Code and Automation header I selected the Pages tab to open the Github Pages section.
+3) Under Build and Deployment using the Source drop-down menu I select the Master Branch 
+4) Then after clicking save, Github provided the link to my completed deployed website.
+
 The site is live and deployed through GitHub pages and can be found : [Here](https://brandonpcollins.github.io/My-Project-1/ ) 
 
 # Credits
