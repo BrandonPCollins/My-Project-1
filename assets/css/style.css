@@ -5,6 +5,8 @@
     box-sizing: border-box;
 }
 
+/* General Styling */ 
+
 body {
     color: #3a3a3a;
     margin: 0;
@@ -345,6 +347,8 @@ hr {
     font-size: 200%;
     margin-top: 0.5em;
 }
+
+/* Footer Styling */ 
 
 #call2action {
     padding-top: 5%;
