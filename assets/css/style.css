@@ -358,7 +358,7 @@ hr {
 
 .footer {
     background-color: #3a3a3a;
-    height: 100%;
+    height: 150px;
 }
 
 .footer h2 {
@@ -416,37 +416,28 @@ hr {
 
 /*Timetable Page Styling  */ 
 
-#map {
-    clear: both;
-    float: left;
-}
-
-.calendar {
-    clear: both;
+#timetable-body {
     background: url("../images/timetable-bg.jpeg");
     background-size: cover;
     background-position: center;
     color: white;
     text-shadow: 2px 2px 5px black;
     text-indent: 50%;
-    width: 100%;
 }
-
-#calendar-div {
+/* 
+#map {
     background-color: rgba(0, 0, 0, .6);
     padding: 5% 0 5% 0;
     height: 100%;
+    float: left;
 }
 
-#map {
-    padding-left: 150px;
-}
-
-#map h2 {
-    padding-left: 100px;
-    text-indent: 0;
-}
-
+#calendar {
+    background-color: rgba(0, 0, 0, .6);
+    padding: 5% 0 5% 0;
+    height: 100%;
+    float: right;
+} */
 
 /* Sign Up Page Styling */ 
 .form-section {
