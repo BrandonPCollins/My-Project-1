@@ -306,6 +306,7 @@ hr {
 .image_img {
     display: block;
     width: 100%;
+    height: 600px;
 }
 
 .image_overlay {
@@ -320,21 +321,7 @@ hr {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    opacity: 0;
-    transition: opacity 0.3s;
-}
-
-.image_overlay > * {
-    transform: translateY(20px);
-    transition: transform 0.3s;
-}
-
-.image_overlay:hover {
     opacity: 1;
-}
-
-.image_overlay:hover > * {
-    transform: translateY(0);
 }
 
 .image_title {
@@ -607,5 +594,15 @@ hr {
 @media screen and (max-width: 800px) {
     #photos {
         column-count: 2;
+    }
+    
+    .image_title {
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+
+    .image_description {
+        font-size: 1.5em;
+        margin-top: 0.5em;
     }
 }
