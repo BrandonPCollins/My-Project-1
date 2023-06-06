@@ -7,6 +7,10 @@
 
 /* General Styling */ 
 
+header {
+    background-color: white;
+}
+
 body {
     color: #3a3a3a;
     margin: 0;
@@ -422,8 +426,8 @@ hr {
     background-position: center;
     color: white;
     text-shadow: 2px 2px 5px black;
-    padding-bottom: 10px;
     text-align: center;
+    padding-top: 80px;
 }
 
 #map {
