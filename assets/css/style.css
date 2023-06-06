@@ -599,4 +599,8 @@ td {
         font-size: 0.8em;
         height: 200px;
     }
+
+    #timetable-body {
+        padding-top: 220px;
+    }
 }
