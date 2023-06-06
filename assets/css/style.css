@@ -418,7 +418,7 @@ hr {
     width: 100%;
 }
 
-/*Timetable Page Styling  */ 
+/*Timetable Page Styling */ 
 
 #timetable-body {
     background: url("../images/timetable-bg.jpeg");
@@ -436,12 +436,16 @@ hr {
 
 #calendar {
     background-color: rgba(0, 0, 0, .6);
+    padding: 5px;
 }
 
 table {
-    border-collapse: collapse;
+    border-spacing: 0;
     color: black;
     margin-left: 15%;
+    max-width: 80%;
+    display: block;
+    overflow-x: scroll;
 }
 
 th, td {
@@ -530,11 +534,6 @@ td {
         font-size: 65%;
     }
 
-    .table, th, td {
-        float: left;
-        border:1px solid black;
-    }
-
     hr {
         display: none;
     }
@@ -544,11 +543,6 @@ td {
         height: 1200px;
         margin: 0 auto;
     }
-
-    #timetable-body {
-        display: block;
-    }
-
 }
 
 
