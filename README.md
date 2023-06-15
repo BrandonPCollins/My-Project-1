@@ -28,9 +28,9 @@ Immediately beneath the header I engage in content hinting as discussed in the S
 
 ![image](https://user-images.githubusercontent.com/131177569/234128865-05ef11f9-d43b-4592-8276-cd3815ee4e15.png)
 
-Once they have reached the bottom of the page they are then directed to a hyperlink which will bring them straight to the sign-up page. With this design the index page is specifically structured the funnel the user towards singing up for the gym, and thus generating interest and revenue in the club which is its main goal.
+Once they have reached the bottom of the page they are then directed to a hyperlink which will bring them straight to the sign-up page. With this design the index page is specifically structured the funnel the user towards singing up for the gym, and thus generating interest and revenue in the club which is its main goal. On my initial deployment I had a hover effect built atop the instructor images that the text would only appear when hovering with your mouse, but this led to massive issues with responsivity when reduced to a mobile phone due to the unclear necessity of having the click on the images to have the text appear, which was unintuitive design and thus removed in favour of a static text display. 
 
-![image](https://user-images.githubusercontent.com/131177569/234128942-a160d60e-1894-4b91-a045-52a1def9192f.png)
+![image](https://github.com/BrandonPCollins/My-Project-1/assets/131177569/faa29365-fcec-4950-90fd-6bd68db5569e)
 
 # Sign Up Form
 
