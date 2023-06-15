@@ -283,7 +283,7 @@ hr {
     border-radius: 50%;
 }
 
-/* CSS to make the text overlay hover when mousing over the instructors */
+/* CSS for instructors div */
 #instructors {
     clear: both;
     margin: 0 auto;
