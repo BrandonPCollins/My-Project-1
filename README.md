@@ -3,13 +3,13 @@
  
  The Waterford Warlords webpage is one I have designed for a fictional Mixed Martial Arts Club within my home town of Waterford City, whose business model revolves around taking in local talent and building them into professional fighters.
  
- The purpose of the website is to entice users through a range different avenues, including showcasing the wide variety of classes offers, the pedigree and accomplishments of the coaching staff, and various images of current and past members participating in sparring and winning bouts in various disciplines. It is targeted at Martial Artists interested in a career in combat sports, but with some additional words towards a more casual hobbiest with references towards beginner friendly courses.
+ The purpose of the website is to entice users through a range of different avenues, including showcasing the wide variety of classes offered, the pedigree and accomplishments of the coaching staff, and various images of current and past members participating in sparring and winning bouts in various disciplines. It is targeted at Martial Artists interested in a career in combat sports, but with some additional words towards a more casual hobbyist with references towards beginner friendly courses.
  
-![image](https://user-images.githubusercontent.com/131177569/234106541-9ef6f54e-105a-4978-b26f-32c655a6ec63.png)
+![image](https://github.com/BrandonPCollins/My-Project-1/assets/131177569/e2ef5792-c5cc-47e1-93ab-c5e02e149874)
 
 # Features
 
-Along the top of the index page and the other 3 pages in the naviation bar. It displays the name of club WATERFORD WARLORDS in the top left hand corner, and snapped to the top right of the bage are navigation linkes to each additional webage, Home, Timetable, Gallery, and Sign Up!. As you can see the Home link is underlined as the active page, clearly conveying to the user which section of the site they are currently on. The colors of blue on white were chosen for their clairty and readibility, while also being pertinent to the club's location in Waterford City as these are the county colours. 
+Along the top of the index page and the other 3 pages in the naviation bar. It displays the name of club WATERFORD WARLORDS in the top left hand corner, and snapped to the top right of the page are navigation linkes to each additional webage, Home, Timetable, Gallery, and Sign Up!. As you can see the Home link is underlined as the active page, clearly conveying to the user which section of the site they are currently on. The colours of blue on white were chosen for their clarity and readability, while also being pertinent to the club's location in Waterford City as these are the county colours. 
 
 ![image](https://user-images.githubusercontent.com/131177569/234122597-4f8e3ca8-7f61-4aff-89de-d4e83b237c4e.png)
 
@@ -40,27 +40,27 @@ The sign up page is used to get as much information from the client as possible 
 
 # Timetable 
 
-The timetable page gives details on all the classes a prospective clien can engage with, displaying the information cleanly and easily in the form of a google calendar which I created specifically for this project. It also provides a place for current memebrs to view upcoming classes. Additionally I included a google map to make the location of the gym clear for new clients.
+The timetable page gives details on all the classes a prospective client can engage with, displaying the information cleanly and easily in the form of a google calendar which I created specifically for this project. It also provides a place for current members to view upcoming classes. Additionally, I included a Google map to make the location of the gym clear for new clients.
 
 ![image](https://user-images.githubusercontent.com/131177569/234129698-6bfa9473-0680-4efd-879b-7f63776b5f60.png)
 
 # Gallery
 
-The mosiac gallery is another technique we're using to try and encourage new sign-ups by showcasing a variety of dynamic and exciting images of training within the gym, showcasing the clean and cutting edge facilities from which the club operates. 
+The mosaic gallery is another technique we're using to try and encourage new sign-ups by showcasing a variety of dynamic and exciting images of training within the gym, showcasing the clean and cutting edge facilities from which the club operates. 
 
 ![image](https://user-images.githubusercontent.com/131177569/234130070-076578d6-a78c-47c2-ad13-a6a1b7bd186a.png)
 
 # Footer 
 
-At the bottom of every page the footer provides essential contact information for the gym so that it is easily and immeidately available no matter which page the user is currently on. Included is the gym's phone number and email adress for direct contact, and also the club's various social media accounts on Youtube, Twitter, Instagram, and Facebook using icons taken from fontawesome.com. 
+At the bottom of every page, the footer provides essential contact information for the gym so that it is easily and immediately available no matter which page the user is currently on. Included is the gym's phone number and email address for direct contact, and also the club's various social media accounts on Youtube, Twitter, Instagram, and Facebook using icons taken from fontawesome.com. 
 
 ![image](https://user-images.githubusercontent.com/131177569/234130438-5472ae09-716c-4c31-9d61-79239cb2948d.png)
 
 # Future Development and Challenges
 
-The ability to book classes in advance is something I toyed with during development but was unable to do so in a satisfactory way with my current skillset. It would absolutely be something I would like to implement in a future iteration of this website.
+The ability to book classes in advance is something I toyed with during development but was unable to do so in a satisfactory way with my current skill set. It would absolutely be something I would like to implement in a future iteration of this website.
 
-The cage link fence background, while thematic, was also a back-up as initially I attempted to create a parallax scroll image, though I was already so far into development that trying to put it on top of what I had already created proved too much for me. If I were to do this project again I would likely start with the background rather than the content, giving me a tabula rasa upon which to work, without the glut my own code muddying up the clarity of what I was attempting to accomplishment. 
+The cage link fence background, while thematic, was also a back-up as initially I attempted to create a parallax scroll image, though I was already so far into development that trying to put it on top of what I had already created proved too much for me. If I were to do this project again I would likely start with the background rather than the content, giving me a tabula rasa upon which to work, without the glut my own code muddying up the clarity of what I was attempting to accomplish. 
 
 # Testing
 
@@ -75,7 +75,7 @@ Accesibility was testing through Lighthouse in devtools and the Waterford Warlor
 
 ![Screenshot 2023-04-24 205906](https://user-images.githubusercontent.com/131177569/234105930-502fa0e1-fa17-44d7-9545-90fe77d06ace.png)
 
-Both the HTML and CSS were ran throughteh official W3C and Jigsaw validators respectively. The CSS returned no errors, but the HTML contained several issues which mostly attributable to oversights and earlier versions. These were thusly corrected, except for a warning of a section lacking a header of which I am aware of and is being done intentionally.
+Both the HTML and CSS were ran through the official W3C and Jigsaw validators respectively. The CSS returned no errors, but the HTML contained several issues which were mostly attributable to oversights and earlier versions. These were thusly corrected, except for a warning of a section lacking a header which I am aware of and is being done intentionally.
 
 ![image](https://user-images.githubusercontent.com/131177569/234133135-a0ec6e6b-3af6-42a5-8e2a-71284d2bce59.png)
 
@@ -83,7 +83,7 @@ Both the HTML and CSS were ran throughteh official W3C and Jigsaw validators res
 
 ![image](https://user-images.githubusercontent.com/131177569/234132923-bfd33756-60c0-4245-a402-5b4c92e14161.png)
 
-As of now there are no bugs that I am aware of, having managed to squash most of them in my testing phase. In particular the responsive design was particularly difficult and required severals layers of testing as the index page was particularly complex given the various styles I used on the respective sections. 
+As of now there are no bugs that I am aware of, having managed to squash most of them in my testing phase. In particular, the responsive design was particularly difficult and required several layers of testing as the index page was particularly complex given the various styles I used on the respective sections. 
 
 # Deployment
 
